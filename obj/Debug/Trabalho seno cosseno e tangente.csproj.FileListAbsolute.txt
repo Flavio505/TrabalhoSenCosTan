@@ -1,0 +1,10 @@
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho seno cosseno e tangente.csproj.AssemblyReference.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho_seno_cosseno_e_tangente.Form1.resources
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho_seno_cosseno_e_tangente.Properties.Resources.resources
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho seno cosseno e tangente.csproj.GenerateResource.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho seno cosseno e tangente.csproj.CoreCompileInputs.cache
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\bin\Debug\Trabalho seno cosseno e tangente.exe.config
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\bin\Debug\Trabalho seno cosseno e tangente.exe
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\bin\Debug\Trabalho seno cosseno e tangente.pdb
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho seno cosseno e tangente.exe
+D:\Faculdade\4 Semestre\PROGRAM ORIENT A OBJETOS II\Faculdade\Trabalho seno cosseno e tangente\obj\Debug\Trabalho seno cosseno e tangente.pdb
